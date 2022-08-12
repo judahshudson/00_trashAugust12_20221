@@ -1,0 +1,61 @@
+
+
+***CONTINUE HERE***
+0) pubish starter site
+
+-publish
+*github?
+https://id.heroku.com/login?
+*udemy other (hirokima)?
+*block chain internet computer?
+
+TO DO
+-format sabarstudios.com
+*video section = default
+
+
+
+NOTES
+-should i make sabar studios for web dev?
+*no
+*sabar studios is for movies
+-brand Sabar Sites?
+*Sabar Design?
+-color palette
+https://www.color-hex.com/color-palette/1017054
+
+
+***DONE***
+8/12/2022
+-changed bottom Story link from sabarstudios.com to youtube/sabarStudios channel
+-added sabarstudios.com link to story img
+
+-village blue/white line
+
+
+-give pic credits
+*sun
+https://pixabay.com/vectors/sun-nature-sunny-day-light-darling-2081066/
+Image by <a href="https://pixabay.com/users/davidrockdesign-2595351/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2081066">David</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2081066">Pixabay</a>
+*shooting star
+https://pixabay.com/vectors/shooting-star-comet-star-fireball-297130/
+Image by <a href="https://pixabay.com/users/clker-free-vector-images-3736/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=297130">Clker-Free-Vector-Images</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=297130">Pixabay</a>
+*village
+https://pixabay.com/vectors/neighborhood-homes-community-town-303736/
+Image by <a href="https://pixabay.com/users/clker-free-vector-images-3736/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=303736">Clker-Free-Vector-Images</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=303736">Pixabay</a>
+*cottage
+https://pixabay.com/vectors/cottage-cabin-house-home-village-37296/
+
+
+
+
+08/11/2022
+-update colors
+-update images
+*stars / starry night?
+*css layout
+-udapte html text content
+-starter files: section 5 css project
+
+
+
